@@ -366,6 +366,7 @@ This repository documents a bioinformatics research project comparing chromatin 
 
 - **Research Guide:** [Vaibhavi Jain](https://github.com/VaibuJain) — Research guidance, methodological supervision, and scientific interpretation.
 - **Project Researcher:** Ankita Bhosale — Project implementation, data analysis, and repository maintenance.
+- **Project Researcher;** [Abhishek Nagargoje](https://github.com/abhisheknagargoje-web) - Drafting, Review
 
 Contributions and research roles are acknowledged according to the work performed by each team member.
 
